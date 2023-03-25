@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  -->
 <h3 align="left">My Stats:</h3>  
 
-![Thanh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien-rayujin&count_private=true&show_icons=true&theme=radical)
+![Tien-Rayujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien-rayujin&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tien-rayujin&theme=radical)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tien-rayujin&count_private=true&show_icons=true&theme=radical" alt="tien-rayujin" /></p> -->
 
