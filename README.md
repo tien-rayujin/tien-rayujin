@@ -23,7 +23,7 @@
 
 <div>
   <h2 align="left">Frameworks and Library</h2>
-  <table align="left" style="width: 100%">
+  <table align="left" style="min-width: 100%">
     <tr>
       <th style="min-width: 350px">Programming Language</th>
       <td>
@@ -78,7 +78,7 @@
       </td>
     </tr>
   </table>
-</div><br/>
+</div>
 
 <div>
   <h2 align="left">Award and Certification</h2>
