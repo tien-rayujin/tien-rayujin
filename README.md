@@ -83,7 +83,7 @@
 <div>
   <table align="left" style="padding-left: 40px">
     <tr>
-      <th><h2>Award and Certification</h2></th>
+      <th>## Award and Certification</th>
       <th></th>
     </tr>
     <tr>
