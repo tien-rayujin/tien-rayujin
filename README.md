@@ -97,3 +97,10 @@
     </tr>
   </table>
 </div>
+
+<!-- Some stats -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tien-rayujin&show_icons=true&locale=en&layout=compact" alt="tien-rayujin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tien-rayujin&show_icons=true&locale=en" alt="tien-rayujin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tien-rayujin&" alt="tien-rayujin" /></p> -->
