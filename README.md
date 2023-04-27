@@ -98,6 +98,10 @@
       <td>CertNexus Certified Ethical Emerging Technologist</td>
       <td><a href="https://coursera.org/share/359d913ba203e8a22686a727853584be" target="_blank">link</a></td>
     </tr>
+     <tr>
+      <td>Software Development Lifecycle</td>
+      <td><a href="https://coursera.org/share/b6d712b23c39568338f5b50c17317d79" target="_blank">link</a></td>
+    </tr>
   </table>
 </div>
 
