@@ -22,7 +22,7 @@
 </p>
 
 <div>
-  <h2 align="left">Frameworks/Library and Tools:</h2>
+  <h2 align="left">Frameworks and Library</h2>
   <table align="left" style="width: 100%">
     <tr>
       <th style="min-width: 350px">Programming Language</th>
