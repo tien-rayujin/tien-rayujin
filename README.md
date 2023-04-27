@@ -23,7 +23,7 @@
 
 <div>
   <h2 align="left">Frameworks and Library</h2>
-  <table align="left" style="min-width: 100%">
+  <table align="left">
     <tr>
       <th style="min-width: 350px">Programming Language</th>
       <td>
@@ -81,10 +81,13 @@
 </div>
 
 <div>
-  <h2 align="left">Award and Certification</h2>
   <table align="left" style="padding-left: 40px">
     <tr>
-      <td >FPT Honorable Student of Semester</td>
+      <th><h2>Award and Certification</h2></th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>FPT Honorable Student of Semester</td>
       <td><a href="https://drive.google.com/file/d/1WYC4AtSEFcW-Y4xtaT_d0_gVRwjqzPxs/view?usp=sharing" target="_blank">link</a></td>
     </tr>
     <tr>
