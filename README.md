@@ -22,7 +22,7 @@
 </p>
 
 <div>
-  <h2 align="left">Frameworks and Library</h2>
+  <h2 align="left">Tech stack</h2>
   <table align="left">
     <tr>
       <th style="min-width: 350px">Programming Language</th>
@@ -34,7 +34,7 @@
       </td>
     </tr>
     <tr>
-      <th>Frontend</th>
+      <th>Front-end</th>
       <td>
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -45,7 +45,7 @@
       </td>
     </tr>
     <tr>
-      <th>Backend</th>
+      <th>Back-end</th>
       <td>
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
