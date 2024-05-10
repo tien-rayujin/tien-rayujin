@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- stats and langs -->
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-rho-rosy-56.vercel.app/api?username=tien-rayujin&show_icons=true&locale=en&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true" alt="tien-rayujin | stats" />
+  <img height="170em" src="https://github-readme-stats-rho-rosy-56.vercel.app/api/top-langs?username=tien-rayujin&show_icons=true&locale=en&layout=compact&langs_count=10&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true&hide=html,css,starlark" alt="tien-rayujin | langs" />
+</div>
