@@ -50,6 +50,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-rho-rosy-56.vercel.app/api/top-langs?username=tien-rayujin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=java,html" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1zCc_U4Mx_kA9RSeYAi8vYNLaLz239LWq/view?usp=sharing" target="_blank">My Resume</a>
+</div>
+
 ###
 <!--
 <div align="left">
